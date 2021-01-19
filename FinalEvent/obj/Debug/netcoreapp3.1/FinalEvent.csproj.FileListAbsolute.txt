@@ -1,0 +1,13 @@
+C:\Users\asgha\source\repos\FinalEvent\FinalEvent\obj\Debug\netcoreapp3.1\FinalEvent.csprojAssemblyReference.cache
+C:\Users\asgha\source\repos\FinalEvent\FinalEvent\obj\Debug\netcoreapp3.1\FinalEvent.AssemblyInfoInputs.cache
+C:\Users\asgha\source\repos\FinalEvent\FinalEvent\obj\Debug\netcoreapp3.1\FinalEvent.AssemblyInfo.cs
+C:\Users\asgha\source\repos\FinalEvent\FinalEvent\obj\Debug\netcoreapp3.1\FinalEvent.csproj.CoreCompileInputs.cache
+C:\Users\asgha\source\repos\FinalEvent\FinalEvent\bin\Debug\netcoreapp3.1\FinalEvent.exe
+C:\Users\asgha\source\repos\FinalEvent\FinalEvent\bin\Debug\netcoreapp3.1\FinalEvent.deps.json
+C:\Users\asgha\source\repos\FinalEvent\FinalEvent\bin\Debug\netcoreapp3.1\FinalEvent.runtimeconfig.json
+C:\Users\asgha\source\repos\FinalEvent\FinalEvent\bin\Debug\netcoreapp3.1\FinalEvent.runtimeconfig.dev.json
+C:\Users\asgha\source\repos\FinalEvent\FinalEvent\bin\Debug\netcoreapp3.1\FinalEvent.dll
+C:\Users\asgha\source\repos\FinalEvent\FinalEvent\bin\Debug\netcoreapp3.1\FinalEvent.pdb
+C:\Users\asgha\source\repos\FinalEvent\FinalEvent\obj\Debug\netcoreapp3.1\FinalEvent.dll
+C:\Users\asgha\source\repos\FinalEvent\FinalEvent\obj\Debug\netcoreapp3.1\FinalEvent.pdb
+C:\Users\asgha\source\repos\FinalEvent\FinalEvent\obj\Debug\netcoreapp3.1\FinalEvent.genruntimeconfig.cache
